@@ -1,0 +1,26 @@
+2026/03/26 11:31:17:894	[CheckIn] CIM Timeout ,productSn:1
+2026/03/26 11:31:17:900	SN=1,CIM Reply Err Msg =CIM CheckIn Timeout,ID=1
+2026/03/26 11:31:20:396	CIM CheckIn NG, SN=1, Msg=ReleaseIdentNo Fail,ReturnValueSet = HMF-FILE-EOL|012345-10-AA.hmf, TEST-DUMMY-EOL|IsNotEOLTestDummy, VW-FAZIT-STRING|BBB-00115.10.1900230002, VW-VKMS-PSS-BASIC-KEY|F5-D5-6B-B8-E1-1C-B7-B9-16-4C-32-32-58-AE-A3-3B-26-1F-C9-16-EA-44-65-91-68-33-52-E8-8E-54-A5-28, VW-VKMS-PSS-BASIC-KEY-HASH|75-56-94-E1-D2-08-26-AF-91-C2-B4-53-C7-FE-05-8B, VW-VKMS-DEBUG-KEY|CC-08-F0-E3-0D-97-F2-62-F3-CF-55-4F-C9-67-F3-45, VW-VKMS-DEBUG-KEY-HASH|D4-41-D8-36
+2026/03/26 11:32:27:815	[CheckIn] CIM Timeout ,productSn:1
+2026/03/26 11:32:27:848	SN=1,CIM Reply Err Msg =CIM CheckIn Timeout,ID=1
+2026/03/26 14:37:43:482	Invalid Flow:AOI1_Done->AOI1
+2026/03/26 14:37:43:482	Invalid Flow:AOI1_Done->AOI1 | Invalid Flow:AOI1_Done->AOI1 | Invalid Flow:AOI1_Done->AOI1 | Invalid Flow:AOI1_Done->AOI1
+2026/03/26 14:37:43:483	Invalid Flow:AOI1_Done->AOI1
+2026/03/26 14:37:43:484	Invalid Flow:AOI1_Done->AOI1
+2026/03/26 14:37:43:485	Invalid Flow:AOI1_Done->AOI1
+2026/03/26 15:14:41:221	Invalid Flow:AOI1_Done->AOI1
+2026/03/26 15:14:41:221	Invalid Flow:AOI1_Done->AOI1 | Invalid Flow:AOI1_Done->AOI1 | Invalid Flow:AOI1_Done->AOI1 | Invalid Flow:AOI1_Done->AOI1
+2026/03/26 15:14:41:252	Invalid Flow:AOI1_Done->AOI1
+2026/03/26 15:14:41:269	Invalid Flow:AOI1_Done->AOI1
+2026/03/26 15:14:41:272	Invalid Flow:AOI1_Done->AOI1
+2026/03/26 16:23:19:731	AOI1 result file not found: D:\MidCamera_Channel1\MidCamera\MidCameraUI\bin\x64\Result\20260326\Empty.zip | AOI1 result file not found: D:\MidCamera_Channel1\MidCamera\MidCameraUI\bin\x64\Result\20260326\Empty.zip | AOI1 result file not found: D:\MidCamera_Channel1\MidCamera\MidCameraUI\bin\x64\Result\20260326\Empty.zip | AOI1 result file not found: D:\MidCamera_Channel1\MidCamera\MidCameraUI\bin\x64\Result\20260326\Empty.zip
+2026/03/26 16:51:04:016	Invalid Flow:AOI1_Done->AOI1
+2026/03/26 16:51:07:420	Invalid Flow:AOI1_Done->AOI1 | Invalid Flow:AOI1_Done->AOI1 | Invalid Flow:AOI1_Done->AOI1 | Invalid Flow:AOI1_Done->AOI1
+2026/03/26 16:51:07:448	Invalid Flow:AOI1_Done->AOI1
+2026/03/26 16:51:07:450	Invalid Flow:AOI1_Done->AOI1
+2026/03/26 16:51:07:452	Invalid Flow:AOI1_Done->AOI1
+2026/03/26 16:57:50:099	SN 1 not found in LOAD
+2026/03/26 16:57:50:559	SN 2 not found in LOAD
+2026/03/26 16:57:50:559	SN 3 not found in LOAD
+2026/03/26 16:57:50:559	SN 1 not found in LOAD | SN 2 not found in LOAD | SN 3 not found in LOAD | SN 4 not found in LOAD
+2026/03/26 16:57:50:574	SN 4 not found in LOAD

@@ -1,0 +1,86 @@
+2026/03/26 11:09:40:446	BHTCConnectEOL Initialize OK ,BHTC_Station:STATION_TEST,BHTC_StringSeparator:,
+2026/03/26 11:10:02:885	BHTCConnectEOL Initialize OK ,BHTC_Station:STATION_TEST,BHTC_StringSeparator:,
+2026/03/26 11:10:12:191	BHTCConnectEOL Initialize OK ,BHTC_Station:STATION_TEST,BHTC_StringSeparator:,
+2026/03/26 11:10:36:906	BHTCConnectEOL Initialize OK ,BHTC_Station:STATION_TEST,BHTC_StringSeparator:,
+2026/03/26 11:12:34:083	BHTCConnectEOL Initialize OK ,BHTC_Station:STATION_TEST,BHTC_StringSeparator:,
+2026/03/26 11:13:31:613	BHTCConnectEOL Initialize OK ,BHTC_Station:STATION_TEST,BHTC_StringSeparator:,
+2026/03/26 11:31:17:386	[CheckIn] Start  ReleaseIdentNo ,productSn:1,PartNo=01234567
+2026/03/26 11:32:27:301	[CheckIn] Start  ReleaseIdentNo ,productSn:1,PartNo=01234567
+2026/03/26 11:32:30:314	CIM CheckIn OK, SN=1
+2026/03/26 11:33:22:566	[CheckIn] Start  ReleaseIdentNo ,productSn:1,PartNo=01234567
+2026/03/26 11:33:25:575	CIM CheckIn OK, SN=1
+2026/03/26 11:33:25:584	[CheckIn] Start  ReleaseIdentNo ,productSn:2,PartNo=01234567
+2026/03/26 11:33:28:597	CIM CheckIn OK, SN=2
+2026/03/26 11:33:28:604	[CheckIn] Start  ReleaseIdentNo ,productSn:3,PartNo=01234567
+2026/03/26 11:33:31:609	CIM CheckIn OK, SN=3
+2026/03/26 11:33:31:615	[CheckIn] Start  ReleaseIdentNo ,productSn:4,PartNo=01234567
+2026/03/26 11:33:34:621	CIM CheckIn OK, SN=4
+2026/03/26 14:07:00:880	BHTCConnectEOL Initialize OK ,BHTC_Station:STATION_TEST,BHTC_StringSeparator:,
+2026/03/26 14:30:21:963	[CheckIn] Start  ReleaseIdentNo ,productSn:1,PartNo=01234567
+2026/03/26 14:30:24:977	CIM CheckIn OK, SN=1
+2026/03/26 14:30:24:981	[CheckIn] Start  ReleaseIdentNo ,productSn:2,PartNo=01234567
+2026/03/26 14:30:27:991	CIM CheckIn OK, SN=2
+2026/03/26 14:30:27:994	[CheckIn] Start  ReleaseIdentNo ,productSn:3,PartNo=01234567
+2026/03/26 14:30:31:002	CIM CheckIn OK, SN=3
+2026/03/26 14:30:31:006	[CheckIn] Start  ReleaseIdentNo ,productSn:4,PartNo=01234567
+2026/03/26 14:30:34:007	CIM CheckIn OK, SN=4
+2026/03/26 14:49:00:216	BHTCConnectEOL Initialize OK ,BHTC_Station:STATION_TEST,BHTC_StringSeparator:,
+2026/03/26 14:50:08:049	[CheckIn] Start  ReleaseIdentNo ,productSn:1,PartNo=01234567
+2026/03/26 14:50:11:056	CIM CheckIn OK, SN=1
+2026/03/26 14:50:11:066	[CheckIn] Start  ReleaseIdentNo ,productSn:2,PartNo=01234567
+2026/03/26 14:50:14:070	CIM CheckIn OK, SN=2
+2026/03/26 14:50:14:080	[CheckIn] Start  ReleaseIdentNo ,productSn:3,PartNo=01234567
+2026/03/26 14:50:17:084	CIM CheckIn OK, SN=3
+2026/03/26 14:50:17:088	[CheckIn] Start  ReleaseIdentNo ,productSn:4,PartNo=01234567
+2026/03/26 14:50:20:103	CIM CheckIn OK, SN=4
+2026/03/26 15:46:36:368	[ReportResult] Start Report SN=1,Mode=0,CycleTime=3385,rackSlotNo=AAA1234,contacted=True,TestStepResultSet=[TSAOI101,Grabber,,,,,OK,TSAOI102,Aligner,,,,,OK,TSAOI103,Processor,,,,,OK,TSAOI104,Reporter,,,,,OK,TSAOI201,Grabber,,,,,OK,TSAOI202,Aligner,,,,,OK,TSAOI203,Processor,,,,,OK,TSAOI204,Reporter,,,,,OK,TSAOI301,Grabber,,,,,OK,TSAOI302,Aligner,,,,,OK,TSAOI303,Processor,,,,,OK,TSAOI304,Reporter,,,,,OK,DTC0,DTC0,00004700,,,,00004700,DTC1,DTC1,00004700,,,,00004700,DTC2,DTC2,00004700,,,,00004700,DTC3,DTC3,00004700,,,,00004700,DTC4,DTC4,00004700,,,,00004700,DTC5,DTC5,00004700,,,,00004700,DTC6,DTC6,00004700,,,,00004700],failureList=[TSAOI101,TM7000-TM7000-TM7000-TM7000 NG,TSAOI201,TM7000-TM7000-TM7000-TM7000 NG,TSAOI301,TM7000-TM7000-TM7000-TM7000 NG],fileList=[D:\MidCamera_Channel1\MidCamera\MidCameraUI\bin\x64\Result\20260326\AAA1234_A1_A2_A3_A4.zip,D:\MidCamera_Channel1\MidCamera\MidCameraUI\bin\x64\Result\20260326\AAA1234_A1_A2_A3_A4.zip,D:\MidCamera_Channel1\MidCamera\MidCameraUI\bin\x64\Result\20260326\AAA1234_A1_A2_A3_A4.zip]
+2026/03/26 15:46:36:527	MESResult=1,Fail Meg=OK
+2026/03/26 15:46:36:531	[ReportResult]Report OK SN=1
+2026/03/26 15:46:36:534	[ReportResult] Start Report SN=2,Mode=0,CycleTime=3382,rackSlotNo=AAA1234,contacted=True,TestStepResultSet=[TSAOI101,Grabber,,,,,OK,TSAOI102,Aligner,,,,,OK,TSAOI103,Processor,,,,,OK,TSAOI104,Reporter,,,,,OK,TSAOI201,Grabber,,,,,OK,TSAOI202,Aligner,,,,,OK,TSAOI203,Processor,,,,,OK,TSAOI204,Reporter,,,,,OK,TSAOI301,Grabber,,,,,OK,TSAOI302,Aligner,,,,,OK,TSAOI303,Processor,,,,,OK,TSAOI304,Reporter,,,,,OK,DTC0,DTC0,00004700,,,,00004700,DTC1,DTC1,00004700,,,,00004700,DTC2,DTC2,00004700,,,,00004700,DTC3,DTC3,00004700,,,,00004700,DTC4,DTC4,00004700,,,,00004700,DTC5,DTC5,00004700,,,,00004700,DTC6,DTC6,00004700,,,,00004700],failureList=[TSAOI101,TM7000-TM7000-TM7000-TM7000 NG,TSAOI201,TM7000-TM7000-TM7000-TM7000 NG,TSAOI301,TM7000-TM7000-TM7000-TM7000 NG],fileList=[D:\MidCamera_Channel1\MidCamera\MidCameraUI\bin\x64\Result\20260326\AAA1234_A1_A2_A3_A4.zip,D:\MidCamera_Channel1\MidCamera\MidCameraUI\bin\x64\Result\20260326\AAA1234_A1_A2_A3_A4.zip,D:\MidCamera_Channel1\MidCamera\MidCameraUI\bin\x64\Result\20260326\AAA1234_A1_A2_A3_A4.zip]
+2026/03/26 15:46:36:540	MESResult=2,Fail Meg=OK
+2026/03/26 15:46:36:550	[ReportResult]Report OK SN=2
+2026/03/26 15:46:36:552	[ReportResult] Start Report SN=3,Mode=0,CycleTime=3379,rackSlotNo=AAA1234,contacted=True,TestStepResultSet=[TSAOI101,Grabber,,,,,OK,TSAOI102,Aligner,,,,,OK,TSAOI103,Processor,,,,,OK,TSAOI104,Reporter,,,,,OK,TSAOI201,Grabber,,,,,OK,TSAOI202,Aligner,,,,,OK,TSAOI203,Processor,,,,,OK,TSAOI204,Reporter,,,,,OK,TSAOI301,Grabber,,,,,OK,TSAOI302,Aligner,,,,,OK,TSAOI303,Processor,,,,,OK,TSAOI304,Reporter,,,,,OK,DTC0,DTC0,00004700,,,,00004700,DTC1,DTC1,00004700,,,,00004700,DTC2,DTC2,00004700,,,,00004700,DTC3,DTC3,00004700,,,,00004700,DTC4,DTC4,00004700,,,,00004700,DTC5,DTC5,00004700,,,,00004700,DTC6,DTC6,00004700,,,,00004700],failureList=[TSAOI101,TM7000-TM7000-TM7000-TM7000 NG,TSAOI201,TM7000-TM7000-TM7000-TM7000 NG,TSAOI301,TM7000-TM7000-TM7000-TM7000 NG],fileList=[D:\MidCamera_Channel1\MidCamera\MidCameraUI\bin\x64\Result\20260326\AAA1234_A1_A2_A3_A4.zip,D:\MidCamera_Channel1\MidCamera\MidCameraUI\bin\x64\Result\20260326\AAA1234_A1_A2_A3_A4.zip,D:\MidCamera_Channel1\MidCamera\MidCameraUI\bin\x64\Result\20260326\AAA1234_A1_A2_A3_A4.zip]
+2026/03/26 15:46:36:558	MESResult=3,Fail Meg=OK
+2026/03/26 15:46:36:561	[ReportResult]Report OK SN=3
+2026/03/26 15:46:36:564	[ReportResult] Start Report SN=4,Mode=0,CycleTime=3376,rackSlotNo=AAA1234,contacted=True,TestStepResultSet=[TSAOI101,Grabber,,,,,OK,TSAOI102,Aligner,,,,,OK,TSAOI103,Processor,,,,,OK,TSAOI104,Reporter,,,,,OK,TSAOI201,Grabber,,,,,OK,TSAOI202,Aligner,,,,,OK,TSAOI203,Processor,,,,,OK,TSAOI204,Reporter,,,,,OK,TSAOI301,Grabber,,,,,OK,TSAOI302,Aligner,,,,,OK,TSAOI303,Processor,,,,,OK,TSAOI304,Reporter,,,,,OK,DTC0,DTC0,00004700,,,,00004700,DTC1,DTC1,00004700,,,,00004700,DTC2,DTC2,00004700,,,,00004700,DTC3,DTC3,00004700,,,,00004700,DTC4,DTC4,00004700,,,,00004700,DTC5,DTC5,00004700,,,,00004700,DTC6,DTC6,00004700,,,,00004700],failureList=[TSAOI101,TM7000-TM7000-TM7000-TM7000 NG,TSAOI201,TM7000-TM7000-TM7000-TM7000 NG,TSAOI301,TM7000-TM7000-TM7000-TM7000 NG],fileList=[D:\MidCamera_Channel1\MidCamera\MidCameraUI\bin\x64\Result\20260326\AAA1234_A1_A2_A3_A4.zip,D:\MidCamera_Channel1\MidCamera\MidCameraUI\bin\x64\Result\20260326\AAA1234_A1_A2_A3_A4.zip,D:\MidCamera_Channel1\MidCamera\MidCameraUI\bin\x64\Result\20260326\AAA1234_A1_A2_A3_A4.zip]
+2026/03/26 15:46:36:569	MESResult=4,Fail Meg=OK
+2026/03/26 15:46:36:574	[ReportResult]Report OK SN=4
+2026/03/26 15:54:48:818	[CheckIn] Start  ReleaseIdentNo ,productSn:5,PartNo=01234567
+2026/03/26 15:54:51:821	CIM CheckIn OK, SN=5
+2026/03/26 15:54:51:828	[CheckIn] Start  ReleaseIdentNo ,productSn:6,PartNo=01234567
+2026/03/26 15:54:54:843	CIM CheckIn OK, SN=6
+2026/03/26 15:54:54:854	[CheckIn] Start  ReleaseIdentNo ,productSn:7,PartNo=01234567
+2026/03/26 15:54:57:857	CIM CheckIn OK, SN=7
+2026/03/26 15:54:57:864	[CheckIn] Start  ReleaseIdentNo ,productSn:8,PartNo=01234567
+2026/03/26 15:55:00:867	CIM CheckIn OK, SN=8
+2026/03/26 15:55:26:258	[CheckIn] Start  ReleaseIdentNo ,productSn:1,PartNo=01234567
+2026/03/26 15:55:29:266	CIM CheckIn OK, SN=1
+2026/03/26 15:55:29:277	[CheckIn] Start  ReleaseIdentNo ,productSn:2,PartNo=01234567
+2026/03/26 15:55:32:282	CIM CheckIn OK, SN=2
+2026/03/26 15:55:32:287	[CheckIn] Start  ReleaseIdentNo ,productSn:3,PartNo=01234567
+2026/03/26 15:55:35:292	CIM CheckIn OK, SN=3
+2026/03/26 15:55:35:299	[CheckIn] Start  ReleaseIdentNo ,productSn:4,PartNo=01234567
+2026/03/26 15:55:38:314	CIM CheckIn OK, SN=4
+2026/03/26 16:14:13:361	BHTCConnectEOL Initialize OK ,BHTC_Station:STATION_TEST,BHTC_StringSeparator:,
+2026/03/26 16:14:50:390	BHTCConnectEOL Initialize OK ,BHTC_Station:STATION_TEST,BHTC_StringSeparator:,
+2026/03/26 16:16:15:199	[CheckIn] CIM Disabled ,productSn:1
+2026/03/26 16:16:18:998	[CheckIn] CIM Disabled ,productSn:2
+2026/03/26 16:16:19:053	[CheckIn] CIM Disabled ,productSn:3
+2026/03/26 16:16:19:092	[CheckIn] CIM Disabled ,productSn:4
+2026/03/26 16:27:15:190	BHTCConnectEOL Initialize OK ,BHTC_Station:STATION_TEST,BHTC_StringSeparator:,
+2026/03/26 16:27:31:975	BHTCConnectEOL Initialize OK ,BHTC_Station:STATION_TEST,BHTC_StringSeparator:,
+2026/03/26 16:29:27:236	[CheckIn] Start  ReleaseIdentNo ,productSn:1,PartNo=01234567
+2026/03/26 16:29:30:251	CIM CheckIn OK, SN=1
+2026/03/26 16:29:30:261	[CheckIn] Start  ReleaseIdentNo ,productSn:2,PartNo=01234567
+2026/03/26 16:29:33:268	CIM CheckIn OK, SN=2
+2026/03/26 16:29:33:272	[CheckIn] Start  ReleaseIdentNo ,productSn:3,PartNo=01234567
+2026/03/26 16:29:36:282	CIM CheckIn OK, SN=3
+2026/03/26 16:29:36:286	[CheckIn] Start  ReleaseIdentNo ,productSn:4,PartNo=01234567
+2026/03/26 16:29:39:287	CIM CheckIn OK, SN=4
+2026/03/26 16:43:42:523	BHTCConnectEOL Initialize OK ,BHTC_Station:STATION_TEST,BHTC_StringSeparator:,
+2026/03/26 16:44:18:764	BHTCConnectEOL Initialize OK ,BHTC_Station:STATION_TEST,BHTC_StringSeparator:,
+2026/03/26 16:45:13:553	[CheckIn] CIM Disabled ,productSn:1
+2026/03/26 16:45:13:556	[CheckIn] CIM Disabled ,productSn:2
+2026/03/26 16:45:13:607	[CheckIn] CIM Disabled ,productSn:3
+2026/03/26 16:45:13:666	[CheckIn] CIM Disabled ,productSn:4
+2026/03/26 16:56:07:163	BHTCConnectEOL Initialize OK ,BHTC_Station:STATION_TEST,BHTC_StringSeparator:,
