@@ -1,0 +1,22 @@
+﻿Test_ItemName,Test_Result,Test_Value,Test_Spec
+Color Red  Set,PASS,,
+Color Green Set,PASS,,
+Color Blue Set,PASS,,
+Color White Set,PASS,,
+RX Display Status,PASS,00 47 00,00 47 00
+RX Backlight Get 100,PASS,FF 03,FF 03
+RX Backlight Set 50,PASS,,
+RX Backlight Get 50,PASS,FF 00,FF 00
+RX Backlight Set 100,PASS,,
+RX Part Number Core Assembly,PASS,WU5T-14F180-TA,WU5T-14F180-TA
+Software Ford Part Number,PASS,WU5T-14D358-TA,WU5T-14D358-TA
+Main Calibration Ford Part Number,PASS,WU5T-14D359-TA,WU5T-14D359-TA
+MCU code Version,PASS,M-01.03.00,M-01.03.00
+Boot code Version,PASS,Z-05.05.00,Z-05.05.00
+HAL Layer Version,PASS,HalV_00_02,HalV_00_02
+AUO Module Version,PASS,CMVr_00_05,CMVr_00_05
+PCBA Version,PASS,M08,M08
+TCON Version,PASS,00 00 00 00 00 0B,00 00 00 00 00 0B
+TDDI Version,PASS,01 00 01 FE,01 00 01 FE
+Temperature,PASS,33 00 2F 00 01,
+Battery Voltage,PASS,81 00 8F 03 BC 05 97 0C 95 0C 0E 04 31 00 89 07,
